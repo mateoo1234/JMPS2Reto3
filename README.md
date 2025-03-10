@@ -7,6 +7,7 @@ Feature2
 "Este es un hotfix crítico para feature1"
 
 
+
 "Hola soy la rama 3", donde 3 es la rama actual.
 >>>>>>> task3
 
